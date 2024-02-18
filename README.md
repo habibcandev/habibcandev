@@ -5,7 +5,7 @@
 
 <img src="{https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white}" />
 
-![Viewed](https://komarev.com/ghpvc/?username=habibcandev)
+[![Views](https://visitcount.itsvg.in/api?id=habibcandev&icon=2&color=3)](https://visitcount.itsvg.in)
 
 
 🚀 My Skills 
