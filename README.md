@@ -9,6 +9,9 @@
 
 [![Views](https://visitcount.itsvg.in/api?id=habibcandev&icon=2&color=3)](https://visitcount.itsvg.in)
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=habibcandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🚀 My Skills 
 
