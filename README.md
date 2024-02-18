@@ -3,7 +3,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,php,py,nodejs,java,css,c)](https://skillicons.dev)
 
+![image]({https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white})
+
 ![Viewed](https://komarev.com/ghpvc/?username=habibcandev)
+
 
 🚀 My Skills 
 
