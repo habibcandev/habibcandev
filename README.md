@@ -1,42 +1,28 @@
 ### Hi there 👋
-👋 Merhaba! Ben [İsminiz], yazılım geliştirmeye ve teknolojiye olan tutkumla dolu birisiyim. Backend ve frontend dillerinde uzmanlık sahibiyim ve her gün kendimi geliştirmeye, yeni şeyler öğrenmeye ve kod yazmaya hevesliyim! 💻
-🚀 Becerilerim:
+👋 Hey there! I'm habibcan, a dedicated software developer deeply passionate about technology. With expertise in both backend and frontend development, I'm committed to continuous learning and innovation in the dynamic realm of coding! 💻
 
-    Backend Geliştirme: Python (Django, Flask), Node.js (Express), Java (Spring Boot)
-    Frontend Geliştirme: HTML, CSS, JavaScript (React, Angular, Vue.js)
-    Veritabanları: MongoDB, MySQL, PostgreSQL, Redis
-    Diğer Araçlar: Git, Docker, RESTful API'ler, JWT, OAuth
+🚀 Skills:
 
-💼 Çalışma Deneyimim:
+    Backend Development: Proficient in Python (Django, Flask), Node.js (Express), and Java (Spring Boot).
+    Frontend Development: Skilled in HTML, CSS, and JavaScript frameworks such as React, Angular, and Vue.js.
+    Databases: Experienced with MongoDB, MySQL, PostgreSQL, and Redis.
+    Other Tools: Familiar with Git, Docker, RESTful APIs, JWT, and OAuth.
 
-    [Şirket Adı] - Lead Backend Developer: Büyük ölçekli uygulamaların arkasındaki iş mantığını tasarlayıp geliştirdim.
-    [Şirket Adı] - Frontend Developer: Kullanıcı arayüzlerini oluşturup, etkileşimli deneyimler sağladım.
-    [Şirket Adı] - Full Stack Developer: Hem backend hem de frontend tarafında çalışarak, kompleks projeleri başarıyla yönettim.
+💼 Work Experience:
 
-🌱 Şu anda öğrenmekte olduğum:
+    [XHanger Software] - Lead Backend Developer: Responsible for architecting and implementing backend solutions for large-scale applications.
+    [Buffer] - Frontend Developer: Developed user interfaces and delivered seamless user experiences.
+    [Notion] - Full Stack Developer: Managed end-to-end development of complex projects, ensuring functionality and performance.
 
-    GraphQL: Yeni bir API sorgulama dili olan GraphQL'i öğreniyor ve uygulamalarıma entegre etmeyi planlıyorum.
-    TypeScript: JavaScript projelerimde güçlü tip güvencesi sağlayan TypeScript'i öğreniyorum.
-    DevOps Araçları: CI/CD süreçlerini iyileştirmek ve otomasyonu artırmak için Docker, Kubernetes gibi araçları öğreniyorum.
+🌱 Currently Learning:
 
-📫 İletişim:
+    Exploring GraphQL for more efficient API development.
+    Enhancing JavaScript projects with TypeScript for better type safety.
+    Deepening knowledge of DevOps tools like Docker and Kubernetes for improved deployment processes.
 
-    LinkedIn: [Profil Linki]
-    E-posta: örneğin@gmail.com
-    Kişisel Websitesi: [Website Adresi]
+📫 Contact:
 
-Yazılım geliştirme yolculuğum boyunca edindiğim deneyimlerle, projeleri hayata geçirmek ve teknoloji dünyasına katkıda bulunmak beni heyecanlandırıyor. Yaratıcı fikirleriniz varsa veya işbirliği yapmak isterseniz, benimle iletişime geçmekten çekinmeyin! 😊✨
-<!--
-**habibcandev/habibcandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Email: hello@habibcandev.com - ( I'm not using these type's of communication at the moment. You can contact me on Discord if needed.
+    Discord: abibenanlamadim33 - ( No Hashtags )
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Driven by a relentless pursuit of excellence in software development, I'm eager to collaborate on innovative projects and contribute to the advancement of technology. Let's connect and build something amazing together!✨
