@@ -3,8 +3,10 @@
 
 
 👋 Hey there! I'm habibcan, a dedicated software developer deeply passionate about technology. With expertise in both backend and frontend development, I'm committed to continuous learning and innovation in the dynamic realm of coding! 💻
+</p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1191297115066998877?hideDiscrim=true)](https://discord.com/users/1191297115066998877)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reawyyexa&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="150px"> 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,php,py,nodejs,java,css,c)](https://skillicons.dev)
 <img src="{https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white}" />
