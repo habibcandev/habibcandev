@@ -9,7 +9,7 @@
 
 [![Views](https://visitcount.itsvg.in/api?id=habibcandev&icon=2&color=3)](https://visitcount.itsvg.in)
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=habibcandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
@@ -37,50 +37,33 @@
     
 ### 💼 Work Experience:
 
-    💡 [ XHanger Software ] - Backend Developer: Contributed to backend architecture and development
-       efforts for large-scale applications. Collaborated with team members on designing and
-       implementing backend systems to ensure scalability and efficiency. Played an integral
-       role in code reviews, troubleshooting, and optimization tasks to maintain the overall quality
-       and performance of backend codebase.
-
-    💡 [ Buffer ] - Frontend Developer: Developed user interfaces and delivered seamless user experiences.
-
-    💡 [ Notion ] - Full Stack Developer: Managed end-to-end development of complex projects, ensuring functionality and performance.
-
-    💡 [ TechHub Solutions ] - Full Stack Developer: Played a pivotal role in the development lifecycle by contributing to both frontend
-       and backend components of various projects. Leveraged my skills in HTML, CSS, JavaScript, Python, and Flask to create user-friendly
-       interfaces and robust backend functionalities. 
-
     💡 [ WebWiz Studios] - Frontend Developer: Led the frontend development efforts at WebWiz Studios, focusing on crafting
-       visually appealing and responsive web interfaces. Utilized my expertise in Bootstrap and jQuery to create dynamic and
-       interactive user experiences across multiple platforms. Worked closely with design teams to translate mockups and
-       wireframes into pixel-perfect web pages, while also collaborating with backend developers to integrate frontend
-       components with backend services. 
+       visually appealing and responsive web interfaces.
 
     💡 [ CodeCrafters ] - Backend Developer: Specialized in backend development at CodeCrafters, with a focus on
-       creating RESTful APIs and managing MongoDB databases. Leveraged my proficiency in Node.js and Express.js
-       to design and implement scalable and secure backend systems. Played a key role in defining API
-       endpoints, data models, and authentication mechanisms to support frontend applications effectively.
-    
+       creating RESTful APIs and managing MongoDB databases. 
+
     💡 [ PixelPulse Technologies ] - Full Stack Developer: Contributed to the development of cutting-edge
        web applications at PixelPulse Technologies, handling both frontend and backend responsibilities. 
 
-    💡 [ ByteBlast Solutions ] - Frontend Developer: Took the lead in frontend development projects at
+    💡 [ ByteBlast Solutions ] - Frontend Developer: Took the membersquad in frontend development projects at
        ByteBlast Solutions, focusing on creating intuitive and visually appealing user interfaces.
-       Leveraged my expertise in HTML, CSS, and JavaScript to develop responsive and interactive
-       web pages that met user requirements and design specifications. Worked closely with UI/UX
-       designers to refine user flows and optimize user experiences, while also collaborating with
-       backend teams to ensure seamless integration of frontend components with backend services. 
 
 ### 📫 Contact:
 
-    Email: hello@habibcandev.com - ( I'm not using these type's of communication at the moment. You can contact me on Discord if needed.
-    Discord: abibenanlamadim33 - ( No Hashtags )
+   - Email: hello@habibcandev.com - ( I'm not using these type's of communication at the moment. You can contact me on Discord if needed.
+   - Discord: abibenanlamadim33 - ( No Hashtags )
 
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/xhanger) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/habibcandev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rootdefacer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habibcandev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/habibcandev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/habibcandev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/habibcandev) 
 
 ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/habibcandev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/habibcandev) 
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 Driven by a relentless pursuit of excellence in software development, I'm eager to collaborate on innovative projects and contribute to the advancement of technology. Let's connect and build something amazing together!✨
