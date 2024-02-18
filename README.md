@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
 
-> [![View count](https://visitcount.itsvg.in/api?id=habibcandev&color=6&icon=0&pretty=true)]
+> ![View count](https://visitcount.itsvg.in/api?id=habibcandev&color=6&icon=0&pretty=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
