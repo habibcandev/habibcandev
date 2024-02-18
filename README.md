@@ -14,6 +14,8 @@
 
 > [![View count](https://visitcount.itsvg.in/api?id=habibcandev&color=6&icon=0&pretty=true)]
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 GitHub Trophies
 ![Trophie](https://github-trophies.vercel.app/?username=habibcandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -24,6 +26,8 @@
 [<img src="https://images.credly.com/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" width="100">](https://www.credly.com/badges/41d6637d-003c-4da4-bd15-8be665cd8642)
 [<img src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="100">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
 [<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100">](https://www.credly.com/badges/5ea8e950-1f00-4880-8c8d-a0750bbe0ea5)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 My Skills 
 
@@ -53,6 +57,8 @@
       identified vulnerabilities. By assisting organizations in strengthening their security posture and enhancing
       their resilience against cyber threats, I contribute to safeguarding sensitive data and preserving business continuity.
     
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 💼 Work Experience:
 
     💡 [ WebWiz Studios] - Frontend Developer: Led the frontend development efforts at WebWiz Studios, focusing on crafting
@@ -67,16 +73,24 @@
     💡 [ ByteBlast Solutions ] - Frontend Developer: Took the membersquad in frontend development projects at
        ByteBlast Solutions, focusing on creating intuitive and visually appealing user interfaces.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 📫 Contact:
 
    - Email: hello@habibcandev.com - ( I'm not using these type's of communication at the moment. You can contact me on Discord if needed.
    - Discord: abibenanlamadim33 - ( No Hashtags )
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/xhanger) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/habibcandev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rootdefacer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habibcandev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/habibcandev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/habibcandev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/habibcandev) 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/habibcandev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/habibcandev) 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
