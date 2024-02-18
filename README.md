@@ -40,6 +40,7 @@
 ![Trophie](https://github-trophies.vercel.app/?username=habibcandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 Success Badge Section
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [<img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100">](https://www.credly.com/badges/a6f3b169-ea7e-4883-a8e9-dd27c13e779f)
 [<img src="https://images.credly.com/images/73d80597-c0d6-471b-b857-a418535f6dd2/Sec_Breach_Case_Studies.png" width="100">](https://www.credly.com/badges/1d9d15eb-8677-4a30-94bf-37dc373a1489)
@@ -47,7 +48,6 @@
 [<img src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" width="100">](https://www.credly.com/badges/181b0588-77bb-430a-855c-0f61d916bf64)
 [<img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100">](https://www.credly.com/badges/5ea8e950-1f00-4880-8c8d-a0750bbe0ea5)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 My Skills 
 
@@ -76,10 +76,9 @@
       closely with stakeholders to develop tailored security solutions and implement effective controls to address
       identified vulnerabilities. By assisting organizations in strengthening their security posture and enhancing
       their resilience against cyber threats, I contribute to safeguarding sensitive data and preserving business continuity.
-    
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💼 Work Experience:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     💡 [ WebWiz Studios] - Frontend Developer: Led the frontend development efforts at WebWiz Studios, focusing on crafting
        visually appealing and responsive web interfaces.
@@ -93,26 +92,30 @@
     💡 [ ByteBlast Solutions ] - Frontend Developer: Took the membersquad in frontend development projects at
        ByteBlast Solutions, focusing on creating intuitive and visually appealing user interfaces.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📫 Contact:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
    - Email: hello@habibcandev.com - ( I'm not using these type's of communication at the moment. You can contact me on Discord if needed.
    - Discord: abibenanlamadim33 - ( No Hashtags )
 
+### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/xhanger) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/habibcandev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rootdefacer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habibcandev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/habibcandev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/habibcandev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/habibcandev) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💰 You can help me by Donating
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/habibcandev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/habibcandev) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 Driven by a relentless pursuit of excellence in software development, I'm eager to collaborate on innovative projects and contribute to the advancement of technology. Let's connect and build something amazing together!✨
