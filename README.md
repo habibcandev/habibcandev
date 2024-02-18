@@ -3,6 +3,8 @@
 
 🚀 Skills:
 
+https://skillicons.dev/icons?i=js,html,css,go,php,py,nodejs,java,css,c
+
     Backend Development: Proficient in Python (Django, Flask), Node.js (Express), and Java (Spring Boot).
     Frontend Development: Skilled in HTML, CSS, and JavaScript frameworks such as React, Angular, and Vue.js.
     Databases: Experienced with MongoDB, MySQL, PostgreSQL, and Redis.
