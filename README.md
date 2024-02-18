@@ -1,9 +1,8 @@
 ### Hi there 👋
 👋 Hey there! I'm habibcan, a dedicated software developer deeply passionate about technology. With expertise in both backend and frontend development, I'm committed to continuous learning and innovation in the dynamic realm of coding! 💻
 
-🚀 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-https://skillicons.dev/icons?i=js,html,css,go,php,py,nodejs,java,css,c
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,php,py,nodejs,java,css,c)](https://skillicons.dev)
+🚀 My Skills 
 
     Backend Development: Proficient in Python (Django, Flask), Node.js (Express), and Java (Spring Boot).
     Frontend Development: Skilled in HTML, CSS, and JavaScript frameworks such as React, Angular, and Vue.js.
