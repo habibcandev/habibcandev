@@ -5,7 +5,7 @@
 👋 Hey there! I'm habibcan, a dedicated software developer deeply passionate about technology. With expertise in both backend and frontend development, I'm committed to continuous learning and innovation in the dynamic realm of coding! 💻
 </p>
 
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1191297115066998877?hideDiscrim=true)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1191297115066998877)](https://discord.com/users/1191297115066998877)
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,php,py,nodejs,java,css,c)](https://skillicons.dev)
