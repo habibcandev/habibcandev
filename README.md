@@ -7,7 +7,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,php,py,nodejs,java,css,c)](https://skillicons.dev)
 <img src="{https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white}" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -35,9 +34,8 @@
 
 > ![View count](https://visitcount.itsvg.in/api?id=habibcandev&color=6&icon=0&pretty=true)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![Trophie](https://github-trophies.vercel.app/?username=habibcandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 Success Badge Section
