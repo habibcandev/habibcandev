@@ -4,6 +4,7 @@
 
 👋 Hey there! I'm habibcan, a dedicated software developer deeply passionate about technology. With expertise in both backend and frontend development, I'm committed to continuous learning and innovation in the dynamic realm of coding! 💻
 </p>
+> ![View count](https://visitcount.itsvg.in/api?id=habibcandev&color=6&icon=0&pretty=true)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1191297115066998877)](https://discord.com/users/1191297115066998877)
 
@@ -34,8 +35,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
-
-> ![View count](https://visitcount.itsvg.in/api?id=habibcandev&color=6&icon=0&pretty=true)
 
 ## 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
