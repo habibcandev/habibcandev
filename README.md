@@ -50,6 +50,7 @@
 
 
 ### 🚀 My Skills 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     🔍 · Backend Development: Proficient in Python (Django, Flask), Node.js (Express), and Java (Spring Boot).
     
