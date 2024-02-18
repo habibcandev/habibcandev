@@ -4,6 +4,7 @@
 
 👋 Hey there! I'm habibcan, a dedicated software developer deeply passionate about technology. With expertise in both backend and frontend development, I'm committed to continuous learning and innovation in the dynamic realm of coding! 💻
 </p>
+
 > ![View count](https://visitcount.itsvg.in/api?id=habibcandev&color=6&icon=0&pretty=true)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1191297115066998877)](https://discord.com/users/1191297115066998877)
