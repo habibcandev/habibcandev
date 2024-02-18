@@ -67,11 +67,9 @@
        designers to refine user flows and optimize user experiences, while also collaborating with
        backend teams to ensure seamless integration of frontend components with backend services. 
 
-🌱 Currently Learning:
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/xhanger) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/habibcandev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rootdefacer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habibcandev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/habibcandev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/habibcandev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/habibcandev) 
 
-    Exploring GraphQL for more efficient API development.
-    Enhancing JavaScript projects with TypeScript for better type safety.
-    Deepening knowledge of DevOps tools like Docker and Kubernetes for improved deployment processes.
 
 📫 Contact:
 
