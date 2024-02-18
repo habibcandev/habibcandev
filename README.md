@@ -5,13 +5,20 @@
 
 🚀 My Skills 
 
-    Backend Development: Proficient in Python (Django, Flask), Node.js (Express), and Java (Spring Boot).
-    Frontend Development: Skilled in HTML, CSS, and JavaScript frameworks such as React, Angular, and Vue.js.
-    Databases: Experienced with MongoDB, MySQL, PostgreSQL, and Redis.
-    Other Tools: Familiar with Git, Docker, RESTful APIs, JWT, and OAuth.
-    Penetration Testing Expertise: I possess extensive expertise in penetration testing methodologies, tools, and techniques.
-    Comprehensive Vulnerability Analysis: I specialize in conducting comprehensive vulnerability analyses across diverse environments, including web applications, networks, and cloud infrastructures.
-    Risk Mitigation and Remediation: As a seasoned penetration tester, I not only identify security weaknesses but also provide actionable recommendations for risk mitigation and remediation. I collaborate closely with stakeholders to develop tailored security solutions and implement effective controls to address identified vulnerabilities. By assisting organizations in strengthening their security posture and enhancing their resilience against cyber threats, I contribute to safeguarding sensitive data and preserving business continuity.
+    · Backend Development: Proficient in Python (Django, Flask), Node.js (Express), and Java (Spring Boot).
+    · Frontend Development: Skilled in HTML, CSS, and JavaScript frameworks such as React, Angular, and Vue.js.
+    · Databases: Experienced with MongoDB, MySQL, PostgreSQL, and Redis.
+    · Other Tools: Familiar with Git, Docker, RESTful APIs, JWT, and OAuth.
+    · Penetration Testing Expertise: I possess extensive expertise in penetration testing methodologies, tools, 
+    and techniques.
+    · Comprehensive Vulnerability Analysis: I specialize in conducting comprehensive vulnerability analyses
+      across diverse environments, including web applications, networks, and cloud infrastructures.
+    · Risk Mitigation and Remediation: As a seasoned penetration tester, I not only identify security 
+    weaknesses but also provide actionable recommendations for risk mitigation and remediation. 
+    I collaborate closely with stakeholders to develop tailored security solutions and implement 
+    effective controls to address identified vulnerabilities. By assisting organizations in 
+    strengthening their security posture and enhancing their resilience against cyber threats, 
+    I contribute to safeguarding sensitive data and preserving business continuity.
     
 💼 Work Experience:
 
