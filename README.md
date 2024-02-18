@@ -15,21 +15,21 @@
 
 ### 🚀 My Skills 
 
-    · Backend Development: Proficient in Python (Django, Flask), Node.js (Express), and Java (Spring Boot).
-    · Frontend Development: Skilled in HTML, CSS, and JavaScript frameworks such as React, Angular, and Vue.js.
-    · Databases: Experienced with MongoDB, MySQL, PostgreSQL, and Redis.
-    · Other Tools: Familiar with Git, Docker, RESTful APIs, JWT, and OAuth.
-    · Penetration Testing Expertise: I possess extensive expertise in penetration testing methodologies, tools,
+    🔍 · Backend Development: Proficient in Python (Django, Flask), Node.js (Express), and Java (Spring Boot).
+    🔍 · Frontend Development: Skilled in HTML, CSS, and JavaScript frameworks such as React, Angular, and Vue.js.
+    🔍 · Databases: Experienced with MongoDB, MySQL, PostgreSQL, and Redis.
+    🔍 · Other Tools: Familiar with Git, Docker, RESTful APIs, JWT, and OAuth.
+    🔍 · Penetration Testing Expertise: I possess extensive expertise in penetration testing methodologies, tools,
       and techniques. With a deep understanding of network security and system vulnerabilities, I conduct thorough
       assessments to identify potential weaknesses in systems, applications, and infrastructure. Leveraging both
       automated and manual testing approaches, I simulate real-world attack scenarios to uncover security flaws
       and assess the overall security posture of organizations.
-    · Comprehensive Vulnerability Analysis: I specialize in conducting comprehensive vulnerability analyses across
+    🔍 · Comprehensive Vulnerability Analysis: I specialize in conducting comprehensive vulnerability analyses across
       diverse environments, including web applications, networks, and cloudinfrastructures. Through meticulous
       examination and testing, I identify and prioritize security vulnerabilities based on their severity and potential
       impact. I utilize industry-standard frameworks such as OWASP (Open Web Application Security Project) and
       CVE (Common Vulnerabilities and Exposures) to ensure thorough coverage and accuracy in my assessments.
-    · Risk Mitigation and Remediation: As a seasoned penetration tester, I not only identify security
+    🔍 · Risk Mitigation and Remediation: As a seasoned penetration tester, I not only identify security
       weaknesses but also provide actionable recommendations for risk mitigation and remediation. I collaborate
       closely with stakeholders to develop tailored security solutions and implement effective controls to address
       identified vulnerabilities. By assisting organizations in strengthening their security posture and enhancing
